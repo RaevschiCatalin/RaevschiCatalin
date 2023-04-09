@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Cătălin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raevschicatalin&label=Profile%20views&color=0e75b6&style=flat" alt="raevschicatalin" /> </p>
-
+<img align="right" width="400px" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 - 🔭 I’m currently working on [GPT4All](https://github.com/nomic-ai/gpt4all-ui)
 
 - 🌱 I’m currently learning **React,Next.js,Typescript,Express**
-<img align="right" width="400px" src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+
 - 💬 Ask me about **Javascript,Python,Tailwind**
 
 - 📫 How to reach me **raevschicatalin@gmail.com**
