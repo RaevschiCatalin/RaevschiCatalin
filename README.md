@@ -13,7 +13,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  ✨ Backend and frontend developer with a focus on crafting scalable and efficient solutions.<br>
+  ✨ Full Stack developer with a focus on crafting scalable and efficient solutions.<br>
   ✨ Open to collaborations in web development, API design, and system architecture.<br>
   ✨ Constantly exploring and experimenting with new tools and frameworks.
 </p>
