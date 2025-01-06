@@ -76,9 +76,9 @@
   </a>
 </p>
 
-<h2 align="center">🎨 Cool Projects</h2>
+<h2 align="center">🎨 Personal Projects</h2>
 <p align="center">
-    <i>Check out these awesome repositories! 🎉</i>
+    <i>Check out my personal projects </i>
 </p>
 
 <p align="center">
