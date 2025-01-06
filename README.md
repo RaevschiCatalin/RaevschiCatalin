@@ -59,7 +59,7 @@
 </p>
 
 <h2 align="center">🛠 Operating Systems</h2>
-<h5 align="center"> (I use arch btw) </h1>
+<h5 align="center"> (I use Arch btw)<img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" height=30px> </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
